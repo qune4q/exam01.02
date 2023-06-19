@@ -1,0 +1,5 @@
+C:\Users\Администратор\source\repos\kairosMAIN\kairosMAIN\obj\Debug\netcoreapp3.1\kairosMAIN.csproj.AssemblyReference.cache
+C:\Users\Администратор\source\repos\kairosMAIN\kairosMAIN\obj\Debug\netcoreapp3.1\kairosMAIN.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Администратор\source\repos\kairosMAIN\kairosMAIN\obj\Debug\netcoreapp3.1\kairosMAIN.AssemblyInfoInputs.cache
+C:\Users\Администратор\source\repos\kairosMAIN\kairosMAIN\obj\Debug\netcoreapp3.1\kairosMAIN.AssemblyInfo.cs
+C:\Users\Администратор\source\repos\kairosMAIN\kairosMAIN\obj\Debug\netcoreapp3.1\kairosMAIN.csproj.CoreCompileInputs.cache
